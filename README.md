@@ -1,5 +1,5 @@
 🚀 Hi, I’m Yonatan Teshome Tilahun!
-Tech Enthusiast | Software Engineer | ERP Dabbler | Data Scientist TO BE
+Tech Enthusiast | FrontEnd Developer | Software Engineer
 
 💻 Focus Areas: Backend Development, Front-End Development, UI/UX Design, Data Analytics, ERP Systems
 🧠 Skills: Data Analytics, Backend Development, UI/UX Design, Full-Stack Development
